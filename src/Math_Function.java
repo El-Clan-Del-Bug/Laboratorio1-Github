@@ -4,6 +4,6 @@ public class Math_Function{
 		for(int i = 0; i == b; i++){
 			c += a * b;
 		}
-		return c;
+		return c; 
 	}
 }
